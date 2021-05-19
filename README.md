@@ -4,11 +4,8 @@
 
 ### [Conteúdo]()
 
-*Criar projeto Asp.NET Core Web API
-
-*Configuar database
-
-*Criar controllers para operação do CRUD
-
-*Criar projeto em Angular
+* Criar projeto Asp.NET Core Web API
+* Configuar database
+* Criar controllers para operação do CRUD
+* Criar projeto em Angular
 
